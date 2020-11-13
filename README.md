@@ -15,7 +15,7 @@ I write code everyday for pleasure and money :smile:. I'm currently experimentin
 ### Latest Medium Blog Posts
 - [Speed up SFTP-to-PostgreSQL Data Import](https://medium.com/the-andela-way/speeding-up-data-import-from-sftp-into-postgresql-in-rails-183c5a366604)
 - [Introduction to Async/Await](https://medium.com/the-andela-way/introduction-to-async-await-its-best-practices-de4b30d11aa8)
-- [An easy to overwrite Joi validation error messages](https://medium.com/the-andela-way/an-easy-way-to-overwrite-joi-celebrate-express-error-messages-5435e6bab2c5)
+- [An easy way to overwrite Joi validation error messages](https://medium.com/the-andela-way/an-easy-way-to-overwrite-joi-celebrate-express-error-messages-5435e6bab2c5)
 - [Why it's bad practice to reassign function params](https://medium.com/the-andela-way/its-bad-practice-to-reassign-function-params-c37f289a5dc4)
 - [Timing Performance with Performance Hooks in Node.js](https://medium.com/the-andela-way/timing-performance-with-performance-hooks-in-node-js-45e666a046a1)
 - [Why you should use Prototypes to Create Class methods in JavaScript](https://medium.com/the-andela-way/why-you-should-use-prototype-to-create-class-methods-in-javascript-ffaf82996977)
