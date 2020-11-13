@@ -2,7 +2,7 @@
 
 I write code everyday for pleasure and money :smile:. I'm currently experimenting with integrating React.js/Next.js apps with - Salesforce Marketing Cloud, Designing better APIs using GraphQL (Node.js) and React.js frontends (Apollo) and Building very clever Chatbots using Google's latest invention - Dialogflow CX.
 
-### My Daily Habits
+### Daily Habits
   - Coding
   - Writing tech blogs on Medium
   - Reading any books
