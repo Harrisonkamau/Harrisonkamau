@@ -6,7 +6,7 @@ I write code everyday for pleasure and money :smile:. I'm currently experimentin
   - Coding
   - Writing tech blogs on Medium
   - Reading any books
-  - Watching Football. I play too (but not at the moment)
+  - Watching Football. I play too (still figuring out my best position on the pitch except goalkeeping)
 
 
 ### Connect with me
